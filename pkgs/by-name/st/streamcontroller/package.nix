@@ -15,6 +15,7 @@
   xdg-desktop-portal-gtk,
   kdotool,
   udevCheckHook,
+  gitUpdater,
 }:
 let
   # We have to hardcode revision because upstream often create multiple releases for the same version number.
